@@ -2,7 +2,7 @@
 
 This is a simple React application for a contact form with chat, call, and email options. The app includes navigation, a contact header, and a contact form with various input methods.
 
-#Table of Contents:
+# Table of Contents:
 Description
 Installation
 Usage
@@ -10,7 +10,7 @@ Contributing
 License
 
 
-#Description
+# Description
 The React Contact Form App is designed to provide a user-friendly interface for contacting a support team. It features a navigation bar, a contact header introducing the purpose of the page, and a contact form with multiple options for reaching out.
 
 # Installation
