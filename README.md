@@ -1,4 +1,4 @@
-React Contact Form App
+# React Contact Form App
 
 This is a simple React application for a contact form with chat, call, and email options. The app includes navigation, a contact header, and a contact form with various input methods.
 
@@ -16,13 +16,14 @@ To run this project locally, follow these steps:
 
 bash
 Copy code
-# Clone the repository
+
+Clone the repository
 git clone https://github.com/shvinjas/react-contact-form-app.git
 
-# Change directory to the project folder
+Change directory to the project folder
 cd react-contact-form-app
 
-# Install dependencies
+Install dependencies
 npm install
 Usage
 Start the application:
