@@ -4,7 +4,7 @@ This is a simple React application for a contact form with chat, call, and email
 
 ## Table of Contents:
 
-- [Description](#description)
+- [Description]
 - [Installation](#installation)
 - [Usage](#usage)
 
