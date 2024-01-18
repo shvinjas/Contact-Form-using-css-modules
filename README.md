@@ -9,10 +9,10 @@ This is a simple React application for a contact form with chat, call, and email
 - [Usage](#usage)
 
 
-# Description
+## Description
 The React Contact Form App is designed to provide a user-friendly interface for contacting a support team. It features a navigation bar, a contact header introducing the purpose of the page, and a contact form with multiple options for reaching out.
 
-# Installation
+## Installation
 To run this project locally, follow these steps:
 
 bash
