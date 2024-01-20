@@ -1,14 +1,22 @@
-
 .navigation {
-    padding:0 8px;
-    height:72 px;
-    display:flex;
-    justify-content: space-between;
-    align-items: center;
+  padding-left: 30px;
+  padding-right: -60px;
+  height: 15vh;
+  width: 1600px;
+  
+  display: flex;
+  justify-content: space-around;
+  gap: 800px;
+  align-items: center;
+  background-color: white;
 }
-.navigation ul{
-    list-style: none;
-    display: flex;
-   gap:24px;
-   font-weight:500;   
+
+.logo img {
+  margin-top: 20px;
+}
+.navigation ul {
+  list-style: none;
+  display: flex;
+  gap: 24px;
+  font-weight: 500;
 }
