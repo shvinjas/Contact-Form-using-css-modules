@@ -8,7 +8,7 @@ console.log();
         
       <nav className={`${styles.navigation} container`}>
         <div className='logo'>
-            <img src="./public/images/brand.png" alt="logo"></img>
+            <img src="./images/brand.png" alt="logo"></img>
         </div>
         <ul>
              <li>Home</li>

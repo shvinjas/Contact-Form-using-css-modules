@@ -44,7 +44,7 @@ const ContactForm = () => {
               type="text"
               name="text"
               rows="8"
-              style={{ resize: "none", outline: "none" }}
+              style={{ resize: "none",paddingTop: "20px" , paddingLeft: "20px", outline: "none" }}
             ></textarea>
           </div>
 
